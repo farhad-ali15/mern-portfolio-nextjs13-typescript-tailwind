@@ -33,15 +33,15 @@ export const contactMeText = {
 
 export const projects = [
   {
-    title: "Personal Finance Tracker",
+    title: "Ecommerce Store Admin Panel",
     body1:
-      "A web application that allows users to track their income and expenses, categorize transactions, and view reports and charts to gain insights into their spending habits.",
-    body2: "Technologies used: HTML, CSS, JavaScript, and Flask.",
+      "The Next.js ecommerce admin panel offers a user-friendly interface for efficient product management. Administrators can easily add new products, providing details such as title, description, price, and images. The panel enables seamless editing of existing products, allowing administrators to update attributes, prices, and descriptions. The admin panel provides a convenient deletion process.Admin panel ensures streamlined functionality for adding, editing, and deleting products, enabling administrators to keep the platform up-to-date and deliver a seamless shopping experience for customers.",
+    body2: "Technologies used: NextAuth, Tailwind, Nextjs, and MongoDB.",
     image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
     links: [
       {
         text: "Source Code",
-        url: "https://github.com/richardbrown/personal-finance-tracker",
+        url: "https://github.com/farhad-ali15/e-commerce-admin-nextjs",
       },
       {
         text: "Live Site",
@@ -50,15 +50,16 @@ export const projects = [
     ],
   },
   {
-    title: "Movie Recommendation System",
+    title: "E-Commerce Front End",
     body1:
-      "A machine learning model that recommends movies to users based on their viewing history and preferences.",
-    body2: "Technologies used: Python, Pandas, NumPy, and scikit-learn",
+      "I'm thrilled to present my successfully completed project—a Next.js front-end page integrated with Styled Components and Stripe payment processing. Throughout the development process, I focused on creating a visually stunning and responsive user interface using Next.js, harnessing its powerful server-side rendering capabilities.a project that showcases my dedication to delivering a polished web application that combines seamless design and secure payment processing to elevate user experiences.",
+    body2:
+      "Technologies used: Nextjs, NextAuth,Styled Components,Stripe and MongoDB.",
     image: "charlesdeluvio-jtmwD4i4v1U-unsplash.png",
     links: [
       {
         text: "Source Code",
-        url: "https://github.com/richardbrown/weather-app",
+        url: "https://github.com/farhad-ali15/e-commerce-front-nextjs",
       },
       {
         text: "Live Site",
@@ -68,17 +69,17 @@ export const projects = [
   },
   {
     title: "Tic-Tac-Toe Game",
-    body1: "A simple game of Tic-Tac-Toe built with Python and Pygame. ",
-    body2: "Technologies used: Python and Pygame.",
+    body1: "A simple game of Tic-Tac-Toe built with React. ",
+    body2: "Technologies used: HTML,CSS,React.",
     image: "tic_tac_toe.png",
     links: [
       {
         text: "Source Code",
-        url: "https://github.com/richardbrown/tic-tac-toe-app",
+        url: "https://github.com/farhad-ali15/mern-games-react-Ts",
       },
       {
         text: "Live Site",
-        url: "https://todo-list-app.richardbrown.net",
+        url: "https://games-farhad-ali.vercel.app",
       },
     ],
   },

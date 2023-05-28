@@ -55,7 +55,7 @@ export const projects = [
       "I'm thrilled to present my successfully completed project—a Next.js front-end page integrated with Styled Components and Stripe payment processing. Throughout the development process, I focused on creating a visually stunning and responsive user interface using Next.js, harnessing its powerful server-side rendering capabilities.a project that showcases my dedication to delivering a polished web application that combines seamless design and secure payment processing to elevate user experiences.",
     body2:
       "Technologies used: Nextjs, NextAuth,Styled Components,Stripe and MongoDB.",
-    image: "charlesdeluvio-jtmwD4i4v1U-unsplash.png",
+    image: "ecommerce-front.jpg",
     links: [
       {
         text: "Source Code",
@@ -63,13 +63,14 @@ export const projects = [
       },
       {
         text: "Live Site",
-        url: "https://weather-app.richardbrown.net",
+        url: "https://e-commerce-front-nextjs.vercel.app",
       },
     ],
   },
   {
     title: "Tic-Tac-Toe Game",
-    body1: "A simple game of Tic-Tac-Toe built with React. ",
+    body1:
+      "I'm excited to unveil my latest project—a fully functional Tic Tac Toe game created using HTML, CSS, and JavaScript. With meticulous attention to detail, I crafted an engaging and interactive gaming experience. Using HTML, I structured the game board and incorporated interactive elements for seamless gameplay. CSS came into play to style the game board, making it visually appealing and user-friendly.The game logic was implemented using JavaScript, allowing players to take turns, detecting winning conditions, and providing an intuitive user interface. Additional features include turn highlighting and a reset option for starting new games.",
     body2: "Technologies used: HTML,CSS,React.",
     image: "tic_tac_toe.png",
     links: [
@@ -84,27 +85,26 @@ export const projects = [
     ],
   },
   {
-    title: "Weather App",
+    title: "React Admin Panel",
     body1:
-      "A web application that allows users to search for the current weather conditions in any city in the world.",
-    body2: "Technologies used: HTML, CSS, JavaScript, and OpenWeather API.",
-    image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+      "I am thrilled to present my recently completed project—a fully functional React admin panel. Leveraging the power of React, this admin panel offers a comprehensive solution for managing various aspects of an application or website. React's component-based architecture , making it scalable and maintainable.Using React Router, I implemented seamless navigation. Additionally, I integrated third-party libraries and APIs to enhance functionalities.This completed React admin panel showcases my expertise in building robust and efficient web applications.",
+    body2: "Technologies used: React, Sass, MongoDB, and Express.",
+    image: "admin-panel.jpg",
     links: [
       {
         text: "Source Code",
-        url: "https://github.com/richardbrown/weather-app",
+        url: "https://github.com/farhad-ali15/react-admin-panel",
       },
       {
         text: "Live Site",
-        url: "https://weather-app.richardbrown.net",
+        url: "https://react-admin-panel-farhad-ali.vercel.app",
       },
     ],
   },
   {
-    title: "Todo List App",
-    body1:
-      "A simple todo list application that allows users to add, edit, and delete tasks, and mark them as complete.",
-    body2: "Technologies used: HTML, CSS, JavaScript, and local storage.",
+    title: "",
+    body1: "",
+    body2: "Technologies used: ",
     image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
     links: [
       {

@@ -106,7 +106,7 @@ export const projects = [
     body1:
       "Introducing My Completed Full Stack Blog App for Riversol:I'm excited to present my recently completed project—a full stack blog app developed specifically for Riversol. This comprehensive application combines front-end and back-end technologies to provide a seamless blogging experience. Leveraging a combination of React for the front-end and a back-end framework like Node.js or Django, I created an intuitive user interface and integrated features such as user authentication, content management, and comment sections. This full stack blog app showcases my ability to deliver a robust and customized solution tailored to Riversol's blogging needs.",
     body2: "Technologies used: Nextjs, Authjs, OAuth, MongoDB, React ",
-    image: "Rivesol.png",
+    image: "Riversol.png",
     links: [
       {
         text: "Source Code",

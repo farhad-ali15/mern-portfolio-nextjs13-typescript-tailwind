@@ -37,7 +37,7 @@ export const projects = [
     body1:
       "The Next.js ecommerce admin panel offers a user-friendly interface for efficient product management. Administrators can easily add new products, providing details such as title, description, price, and images. The panel enables seamless editing of existing products, allowing administrators to update attributes, prices, and descriptions. The admin panel provides a convenient deletion process.Admin panel ensures streamlined functionality for adding, editing, and deleting products, enabling administrators to keep the platform up-to-date and deliver a seamless shopping experience for customers.",
     body2: "Technologies used: NextAuth, Tailwind, Nextjs, and MongoDB.",
-    image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+    image: "ecommerce-admin-next.png",
     links: [
       {
         text: "Source Code",

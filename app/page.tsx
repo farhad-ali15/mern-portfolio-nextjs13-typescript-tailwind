@@ -38,7 +38,7 @@ const AboutMePage = () => {
             height={250}
             aria-label={"image of kaitlyn-baker-vZJdYl5JVXY-unsplash"}
             alt={"kaitlyn-baker-vZJdYl5JVXY-unsplash"}
-            src={"/images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"}
+            src={"/images/about-me.jpeg"}
             className="h-250 object-cover w-500"
           />
         </div>

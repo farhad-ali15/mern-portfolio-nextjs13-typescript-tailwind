@@ -119,19 +119,18 @@ export const projects = [
     ],
   },
   {
-    title: "Recipe Book",
-    body1:
-      "A web application that allows users to search for and save their favorite recipes from around the world.",
-    body2: "Technologies used: HTML, CSS, JavaScript, and Edamam API.",
-    image: "luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+    title: "",
+    body1: "",
+    body2: "Technologies used: ",
+    image: "",
     links: [
       {
         text: "Source Code",
-        url: "https://github.com/richardbrown/recipe-book",
+        url: "",
       },
       {
         text: "Live Site",
-        url: "https://recipe-book.richardbrown.net",
+        url: "",
       },
     ],
   },
